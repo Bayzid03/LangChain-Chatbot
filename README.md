@@ -20,8 +20,8 @@ A simple yet powerful chatbot application built using LangChain and OpenAI's GPT
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone <https://github.com/Bayzid03/LangChain-Chatbot.git>
+cd <LangChain-Chatbot>
 ```
 
 2. Install the required dependencies:
